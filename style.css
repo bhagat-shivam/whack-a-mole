@@ -2,3 +2,25 @@ html {
     background:35px ;
     font-size:#98BC4F ;
 }
+
+body{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    font-size: 100px;
+    line-height: 1;
+    margin-bottom: 0;
+}
+
+.score {
+    background: blue;
+    padding: 0 48px;
+    line-height: 1;
+    border-radius: 16px;
+    color: #fff;
+    margin-left: 15px;
+}
